@@ -1,0 +1,8 @@
+{
+  "name": "go-barber",
+  "version": "1.0.0",
+  "description": "Frontend",
+  "main": "index.js",
+  "author": "Fabio Pereira",
+  "license": "MIT"
+}
